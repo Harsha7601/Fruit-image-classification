@@ -42,6 +42,7 @@ Add the specific frameworks and libraries used in the notebook after verifying t
 ## 📊 Results
 
 Refer to the notebook for the implementation and available results. Add the final validation accuracy and sample predictions here after verifying them from the notebook.
+Fruit image classification Results : https://github.com/Harsha7601/Fruit-image-classification/blob/main/Predicted%20output.png
 
 ## 🔮 Future Enhancements
 
